@@ -13,4 +13,4 @@ User\Gates of olympus><script type="application/javascript" charset="utf-8"
 </script>next
 ******************************************
 
-donation / buy me a coffe : asiajasa@gmail.com
+donation / buy me a coffe : asiajasa.com@gmail.com
