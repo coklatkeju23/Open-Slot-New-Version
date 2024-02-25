@@ -1,4 +1,9 @@
 see the results before the reel spin is made
+
+1.clone this repo
+2. edit file index.html
+3. go to localhost
+
 fill : ID GAME & ID NAME & NEXT
 example :
 ******************************************
