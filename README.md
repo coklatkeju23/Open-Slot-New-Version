@@ -8,7 +8,7 @@ fill : ID GAME & ID NAME & NEXT
 example :
 ******************************************
 Open Slot [Version 1.3.008]
-Name User/Game Name>Gates of olympus
+LUCKYMAN99/Game Name>Gates of olympus
 User\Gates of olympus><script type="application/javascript" charset="utf-8"
 </script>next
 ******************************************
